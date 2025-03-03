@@ -1,6 +1,6 @@
-# 🌍 Disaster Relief and Management Platform
+#  Disaster Relief and Management Platform
 
-## 📌 Problem Statement
+##  Problem Statement
 Natural disasters such as **floods, earthquakes, and hurricanes** cause massive damage to **infrastructure, resources, and human lives**. One of the biggest challenges in disaster relief efforts is the **lack of coordination** among key stakeholders, including **government agencies, NGOs, logistics companies, and volunteers**. 
 
 Without a centralized system, disaster response suffers from:
@@ -13,7 +13,7 @@ Existing systems fail to provide an **integrated platform for collaboration**, m
 
 ---
 
-## 🚀 Solution: Disaster Relief and Management Platform
+## Solution: Disaster Relief and Management Platform
 The **Disaster Relief and Management Platform** is a **centralized software system** designed to streamline disaster relief operations by enabling **real-time collaboration** among stakeholders. This platform ensures **efficient resource distribution, incident reporting, and task management**.
 
 ### 🔹 **Key Features:**
@@ -26,17 +26,6 @@ The **Disaster Relief and Management Platform** is a **centralized software syst
 
 This platform improves disaster relief efficiency by addressing **communication gaps, resource allocation issues, and unstructured task execution**.
 
----
 
-## 🔧 **Technology Stack**
-| Component        | Technology Used |
-|-----------------|----------------|
-| Backend         | Python, Node.js |
-| Frontend       | React.js, TypeScript |
-| Database       | PostgreSQL, MongoDB |
-| API Management | Flask, Express.js |
-| AI/ML Features | OpenCV, NLP for request analysis |
 
----
 
-## 📂 **Folder Structure**
